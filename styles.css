@@ -7,7 +7,7 @@ body {
 .container h1 {
     color: #7EB5A6;
     font-family: 'Ephesis', cursive;
-    font-size: 100px;
+    font-size: 50px;
     margin-left: 700px;
     margin-top: 250px;
 }
@@ -15,5 +15,5 @@ body {
 .container h2 {
     color: #7EB5A6;
     margin-left: 950px;
-    font-size: 50px;
+    font-size: 10px;
 }
