@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Mr+De+Haviland&display=swap');
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.container h1 {
+    color: #7EB5A6;
+    font-family: 'Ephesis', cursive;
+    font-size: 100px;
+    margin-left: 700px;
+    margin-top: 250px;
+}
+
+.container h2 {
+    color: #7EB5A6;
+    margin-left: 950px;
+    font-size: 50px;
+}
